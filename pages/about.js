@@ -16,8 +16,8 @@ export default function Home() {
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
-        <Link href="/about">
-          <a>About Us</a>
+        <Link href="/">
+          <a>Home</a>
         </Link>
       </main>
 
